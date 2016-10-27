@@ -6,7 +6,7 @@ import com.google.gson.GsonBuilder;
 import generator.cleaver.model.Model;
 
 /**
- * Created by Prasanna Lakkur Subramanyam on 4/2/2016.
+ * Created by Sathish kumar on 4/2/2016.
  */
 public abstract class AbstractModelSource implements ModelSource {
 
