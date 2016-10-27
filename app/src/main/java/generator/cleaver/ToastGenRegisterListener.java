@@ -6,7 +6,7 @@ import android.widget.Toast;
 import generator.cleaver.model.RegistrationData;
 
 /**
- * Created by Prasanna Lakkur Subramanyam on 4/3/2016.
+ * Created by Sathish kumar on 4/3/2016.
  */
 public class ToastGenRegisterListener implements  OnRegisterListener {
     private Context context;
