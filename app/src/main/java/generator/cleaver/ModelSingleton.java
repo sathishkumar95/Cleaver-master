@@ -8,7 +8,7 @@ import java.io.IOException;
 import generator.cleaver.model.Model;
 
 /**
- * Created by Prasanna Lakkur Subramnayam on 4/2/2016.
+ * Created by Sathish kumar on 4/2/2016.
  */
 public class ModelSingleton {
     private static ModelSingleton ourInstance;
